@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tgecho/react-prosemirror.git"
+    "url": "git+ssh://git@github.com/ro-savage/react-prosemirror.git"
   },
   "keywords": [
     "react",
@@ -28,7 +28,7 @@
     "react-dom": "^0.14.2"
   },
   "dependencies": {
-    "prosemirror": "git+https://github.com/ProseMirror/prosemirror.git"
+    "prosemirror": "git+ssh://git@github.com/ro-savage/prosemirror.git"
   },
   "devDependencies": {
     "babel-core": "^6.1.4",
